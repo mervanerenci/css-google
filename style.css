@@ -1,0 +1,63 @@
+.topbox {
+    
+    margin: 0 400px 0 520px;
+}
+
+.search-box {
+    padding: 0 600px 0 600px;
+    
+
+}
+
+.bckgrnd-gray {
+    background-color: rgb(230, 224, 224);
+}
+
+.bckgrnd-cyan {
+    background-color: aqua;
+}
+
+.bckgrnd-cyan-med {
+    background-color: rgba(3, 180, 180, 0.664);
+}
+
+.bckgrnd-cyan-dark {
+    background-color: rgba(2, 129, 129, 0.801);
+}
+
+ul {
+    list-style-type:none;
+}
+
+.clear {
+    clear: both;
+}
+
+.card1 {
+
+    float: left;
+    padding-top: 1px;
+    width: 350px;
+    height: 90px;
+    margin: 1px;
+
+}
+
+.card2 {
+    float: left;
+    width: 350px;
+    height: 90px;
+    margin: 1px;
+}
+
+.card3 {
+    float: left;
+    width: 350px;
+    height: 90px;
+    margin: 1px;
+}
+
+.links {
+    margin-left: 200px;
+    margin-right: 60px;
+}
